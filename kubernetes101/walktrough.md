@@ -7,4 +7,4 @@
   https://kubernetes.io/docs/user-guide/kubectl-overview/
 
 - Parte 3: Criar uma aplicação Stateless
-  
+  https://github.com/kelseyhightower/lobsters-on-kubernetes
