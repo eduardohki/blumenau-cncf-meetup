@@ -1,10 +1,44 @@
 # Kubernetes 101
 
-- Parte 1: Componentes Básicos do Kubernetes
+1. Componentes Básicos do Kubernetes
+---
   https://kubernetes.io/docs/concepts/
+  - Pods
+  - Service
+  - Volume
+  - Namespace
+  - Replication Controllers
+    - ReplicaSet
+    - Deployment
+    - StatefulSet
+    - DaemonSet
+    - Job
+  - Ingress
+  - Master
+    - apiserver
+    - etcd
+    - network
+    - controller-manager
+    - scheduler
+  - Node/Minion
+    - kubelet
+    - proxy
 
-- Parte 2: kubectl
+2. kubectl
+---
   https://kubernetes.io/docs/user-guide/kubectl-overview/
+  - Especificações YAML
+  - Operações: create / delete / apply / run
+  - Exibições: describe / explain / edit / logs
+  - Acesso: proxy / expose / port-forward
 
-- Parte 3: Criar uma aplicação Stateless
+3. Criar uma aplicação Stateless
+---
   https://github.com/kelseyhightower/lobsters-on-kubernetes
+  - Docker image
+  - MySQL
+  - Lobsers
+  - Jobs
+  - Accessing
+  - Rolling Updates
+  - Scaling
