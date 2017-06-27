@@ -2,9 +2,33 @@
 
 1. Componentes Básicos do Kubernetes
 ---
+<<<<<<< HEAD
   https://thenewstack.io/kubernetes-an-overview/
+=======
+>>>>>>> 92004dab6ffbcbb1f3f5be8fdc5718b82e906fb7
   https://kubernetes.io/docs/concepts/
+  - Pods
+  - Service
+  - Volume
+  - Namespace
+  - Replication Controllers
+    - ReplicaSet
+    - Deployment
+    - StatefulSet
+    - DaemonSet
+    - Job
+  - Ingress
+  - Master
+    - apiserver
+    - etcd
+    - network
+    - controller-manager
+    - scheduler
+  - Node/Minion
+    - kubelet
+    - proxy
 
+<<<<<<< HEAD
 #### Componentes Lógicos
   - Pods
   - Service
@@ -37,6 +61,8 @@
 
 ![Node Detail](https://cdn.thenewstack.io/media/2016/11/Chart_04_Kubernetes-Node.png)
 
+=======
+>>>>>>> 92004dab6ffbcbb1f3f5be8fdc5718b82e906fb7
 2. kubectl
 ---
   https://kubernetes.io/docs/user-guide/kubectl-overview/
