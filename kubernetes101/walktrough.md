@@ -4,26 +4,6 @@
 ---
   https://thenewstack.io/kubernetes-an-overview/
   https://kubernetes.io/docs/concepts/
-  - Pods
-  - Service
-  - Volume
-  - Namespace
-  - Replication Controllers
-    - ReplicaSet
-    - Deployment
-    - StatefulSet
-    - DaemonSet
-    - Job
-  - Ingress
-  - Master
-    - apiserver
-    - etcd
-    - network
-    - controller-manager
-    - scheduler
-  - Node/Minion
-    - kubelet
-    - proxy
 
 #### Componentes Lógicos
   - Pods
