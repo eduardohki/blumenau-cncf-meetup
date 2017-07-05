@@ -6,6 +6,9 @@
   - https://kubernetes.io/docs/concepts/
 
 #### Componentes Lógicos
+
+![Pods and Services](http://cms.csdnimg.cn/article/201412/01/547c32c7dd2ce.jpg)
+
   - Pods
   - Service
   - Volume
