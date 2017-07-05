@@ -2,8 +2,8 @@
 
 1. Componentes Básicos do Kubernetes
 ---
-  https://thenewstack.io/kubernetes-an-overview/
-  https://kubernetes.io/docs/concepts/
+  - https://thenewstack.io/kubernetes-an-overview/
+  - https://kubernetes.io/docs/concepts/
 
 #### Componentes Lógicos
   - Pods
